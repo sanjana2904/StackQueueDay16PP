@@ -4,7 +4,7 @@ using System.Text;
 
 namespace StackQueueDay16PP
 {
-    public class Stack
+    class Stack
     {
         private Node top;
         public Stack()
